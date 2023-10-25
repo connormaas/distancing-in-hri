@@ -15,5 +15,5 @@ The robot we selected for our study was `Misty` ([Misty?](https://www.mistyrobot
 
 ### Contributions
 
-I was one of four contributors to this paper, the other three being Flora Xia, Carly Pogue, and Alexis Sudjianto. I mainly focused on the **implementation**.
+I was one of four contributors to this paper, the three others being Flora Xia, Carly Pogue, and Alexis Sudjianto. I mainly focused on the **implementation**.
 
