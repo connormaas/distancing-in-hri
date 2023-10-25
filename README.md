@@ -10,7 +10,7 @@ Designing robots with proxemics in mind ensures easy integration into daily life
 
 ### Implementaiton
 
-The robot selected for our study was [Misty](https://www.mistyrobotics.com). In order to set up effective automated experiments, Misty needed to be programmed using the visual programming language [Blocky](https://developers.google.com/blockly). The implementation for Misty, composed of audio, images, and saved Blocky congifurations is included in the `implementation` folder at the root of this repository.
+The robot selected for our study was [Misty](https://www.mistyrobotics.com). In order to set up effective automated experiments, Misty needed to be programmed using the visual programming language [Blocky](https://developers.google.com/blockly). The implementation for Misty, composed of custom audio and saved Blocky congifurations is included in the `implementation` folder at the root of this repository.
 
 
 ### Contributions
