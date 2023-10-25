@@ -2,7 +2,7 @@
 
 ### Overview
 
-This paper, which can be found in the root of this repository as `distancing-in-hri.pdf`, investigates the influence of robot likability, gaze, and participant personality on human-robot distancing behaviors. It is a replication of *Human-Robot Proxemics: Physical and Psychological Distancing in Human-Robot Interaction* by Jonathan Mumm and Bilge Mutlu, with added components and a modified robot.
+This paper, which can be found in the root of this repository as `distancing-in-hri.pdf`, investigates the influence of robot likability, gaze, and participant personality on human-robot distancing behaviors. It is a replication of *Human-Robot Proxemics: Physical and Psychological Distancing in Human-Robot Interaction* by Jonathan Mumm and Bilge Mutlu, with a different robot and added conditions and metrics .
 
 ### Abstract
 
