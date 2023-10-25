@@ -6,7 +6,7 @@ This paper, which can be found in the root of this repository as `distancing-in-
 
 ### Abstract
 
-Designing robots with proxemics in mind ensures easy integration into daily life that is not disruptive to humans; this is a problem that the paper ‘Human-Robot Proxemics: Physical and Psychological Distancing in Human-Robot Interaction’ by Jonathan Mumm and Bilge Mutlu works to address. This report details a replication of this paper, manipulating the likability and gaze of a robot to see how people distance themselves from robots. A unique addition to the original paper that our group added is an exploration of these questions by looking at participant personality. This report contributes to the previous studies on the topic and looks to confirm or deny results based on running a conceptual replication.
+Designing robots with proxemics in mind ensures easy integration into daily life that is not disruptive to humans; this is a problem that the paper *Human-Robot Proxemics: Physical and Psychological Distancing in Human-Robot Interaction* by Jonathan Mumm and Bilge Mutlu works to address. This report details a replication of this paper, manipulating the likability and gaze of a robot to see how people distance themselves from robots. A unique addition to the original paper that our group added is an exploration of these questions by looking at participant personality. This report contributes to the previous studies on the topic and looks to confirm or deny results based on running a conceptual replication.
 
 ### Implementaiton
 
